@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/your-github-username/your-repository-name)
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/flux7782/Blog-Site)
 # Jekyll Starter
 
 > Starting point for Jekyll sites using [Tailwind CSS](https://tailwindcss.com/)
